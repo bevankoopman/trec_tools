@@ -1,8 +1,8 @@
-##TREC TOOLS
+# TREC TOOLS
 
 A simple toolkit to process TREC files. If you do not know what TREC is, you surely do not need this package.
 
-##Installing
+## Installing
 
 ```
 pip install trectools
